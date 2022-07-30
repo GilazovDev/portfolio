@@ -199,7 +199,7 @@ h3 .text-wrapper:nth-of-type(2) .text {
     background-color: rgba(53, 251, 53, 0.646);
 }
 
-@media (max-width: 565px) {
+@media (max-width: 992px) {
     .skill-photo {
         width: 250px;
         margin-left: 0px;
