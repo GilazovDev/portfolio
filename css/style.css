@@ -110,8 +110,8 @@ h3 .text-wrapper:nth-of-type(2) .text {
     margin-bottom: 50px;
 }
 
-.project-block {
-
+.project-block  {
+    margin-bottom: 50px;
 }
 
 .project-photo {
